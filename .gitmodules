@@ -1,0 +1,3 @@
+[submodule "mvw33"]
+	path = mvw33
+	url = git@github.com:MiPnamic/jekyll-theme-mvw33.git
