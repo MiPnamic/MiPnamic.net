@@ -3,13 +3,13 @@ email: mipnamic@mipnamic.net
 description: >
   Bearded Developer and Enthusiast<br/>made in Italy
 baseurl: ""
-url: http://mipnamic.net
+url: https://mipnamic.net
 author: "Marco Orlandin"
-avatar: "http://www.gravatar.com/avatar/c22b20d403db75d9a842e1a34bf2c479.png?s=200"
+avatar: "https://www.gravatar.com/avatar/c22b20d403db75d9a842e1a34bf2c479.png?s=200"
 og:
-  url: http://mipnamic.net/index.html
+  url: https://mipnamic.net/index.html
   title: Bearded Developerand Enthusiast
-  image: http://mipnamic.net/img/mipnamicfb.jpg
+  image: https://mipnamic.net/img/mipnamicfb.jpg
   locale: en_US
 social:
   instagram: https://instagram.com/MiPnamic
