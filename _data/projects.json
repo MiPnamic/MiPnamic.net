@@ -1,0 +1,56 @@
+[
+  {
+    "title": "SafePwd",
+    "description": "Password keeping and password generation software for Mac Os.",
+    "skills": ["Objective-C", "SQLite"]
+  },
+  {
+    "title": "OpenOTP Integration",
+    "description": "Integration of the Two factor authentication in a FLOSS projects.",
+    "skills": ["PHP", "FLOSS"]
+  },
+  {
+    "title": "LottoFacile",
+    "description": "Java application for statistical analysis.",
+    "skills": ["Java", "MySQL"],
+    "url": "http://www.edcorporation.com/blog"
+  },
+  {
+    "title": "Linkard",
+    "description": "An on-line service for creating digital business cards.",
+    "skills": ["PHP", "MySQL", "laravel"],
+    "url": "http://linkard.it/"
+  },
+  {
+    "title": "HeroQuest",
+    "description": "HTML5 tribute to this wonder of 1989. All rights reserved.",
+    "skills": ["HTML5"],
+    "url": "https://github.com/MiPnamic/HeroQuest"
+  },
+  {
+    "title": "Domestics and Caregivers",
+    "description": "Cross-platform payroll software written in Java.",
+    "skills": ["Java", "MySQL"]
+  },
+  {
+    "title": "Datei",
+    "description": "Web-based file management and organization. A DMS that focus on tags.",
+    "skills": ["PHP", "MongoDB", "twig", "NodeJS", "LokiJS", "FLOSS"],
+    "url": "https://github.com/MiPnamic/datei"
+  },
+  {
+    "title": "ADI",
+    "description": "Integrated home care web based management software.",
+    "skills": ["PHP", "MySQL", "Laravel"]
+  },
+  {
+    "title": "ASI",
+    "description": "Web-based application for membership management. Developed for ASI (Associazioni Sportive e Sociali Italiane).",
+    "skills": ["PHP", "MySQL", "Laravel", "jQuery"]
+  },
+  {
+    "title": "Simkit",
+    "description": "Web Application for Electricity retailing.",
+    "skills": ["AngularJS", "NodeJS", "MongoDB"]
+  }
+]
