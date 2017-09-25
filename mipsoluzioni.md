@@ -11,8 +11,8 @@ In these years I understood that opportunities hardly fall down from the sky, th
 
 Even if these sentences seem taken out from the first ten pages of a randomly chosen marketing book, being a self-employed and an employee at the same time gave me the opportunity to focus and learn that I should trust someone as soon as I started to gather new customers.
 
-Actually I work with some professionals, with some friends worldwide and all that we do is do what we love to do.
+I actually work with some professionals, with some friends worldwide and all that we do is do what we love to do.
 
-What we do? We develop... and we drink a lot of coffee in the meanwhile. We work together for better understand our customers needs and release them what they asked for.
+What we do? We develop... and we drink a lot of coffee in the meanwhile. We work together to understand our customers' needs better, and give them what they asked for.
 
 [Still looking for developers?](https://it.linkedin.com/in/mipnamic){:target="_blank"}

@@ -5,7 +5,7 @@ subtitle: even if nobody cares
 permalink: /about/
 ---
 
-Hi, I'm the guy behind the nickname, I was born in Italy in 1983 and I grew up as a problem-solving addicted, in 2004 I officially become a Developer and in 2009 I started [my own business](/company).
+Hi, I'm the guy behind the nickname, I was born in Italy in 1983 and I grew up as a problem-solving addict, in 2004 I officially became a Developer and in 2009 I started [my own business](/company).
 
 I love to cook and to write code;
 I do not usually prepare the same dish two times in a week as well as I do not use the same technologies for two adjacent projects.
