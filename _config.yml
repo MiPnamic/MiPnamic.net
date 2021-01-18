@@ -27,6 +27,7 @@ extrainfo:
 buymeabeer: https://www.paypal.me/mipnamic/3
 
 # Build settings
+timezone: Europe/Rome
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 theme: mvw33
